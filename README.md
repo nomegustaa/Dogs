@@ -20,6 +20,6 @@
 <h1>Ferramentas usadas no projeto</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,css&theme=light" />
   </a>
 </p>
