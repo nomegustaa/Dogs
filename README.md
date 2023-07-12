@@ -10,7 +10,12 @@
 <p>
   <b>ver estatísticas do seu perfil</b>
 </p>
-<img width="800px" src="https://github.com/nomegustaa/Dogs/assets/88720366/6a3be7b6-8823-44a8-8fbb-25fc649c666a">
+<img width="800px" src="https://github.com/nomegustaa/Dogs/assets/88720366/a80a3f06-488e-42dc-a696-dba271572c1b">
+
+<p>
+  <a href="https://dogs-five-mu.vercel.app/" target="_blank">Link do projeto no ar</a>
+</p>
+
 
 <h3>Para rodar o projeto na sua máquina</h3>
 <p>1. Clone o projeto</p>
