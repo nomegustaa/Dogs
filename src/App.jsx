@@ -12,6 +12,7 @@ import ProtectedRoute from "./Components/Helper/ProtectedRoute";
 import NotFound from "./Components/NotFound/NotFound";
 
 const App = () => {
+  console.log('teste')
   return (
     <div className="App">
       <BrowserRouter>
