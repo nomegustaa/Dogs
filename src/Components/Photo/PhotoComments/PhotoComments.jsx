@@ -6,7 +6,6 @@ import styles from "../PhotoComments/PhotoComments.module.css";
 const PhotoComments = (props) => {
   const [comments, setComments] = useState(() => props.comments);
   const commentsSection = useRef(null);
-  console.log(commentsSection);
   const { login } = useContext(UserContext);
 
   useEffect(() => {

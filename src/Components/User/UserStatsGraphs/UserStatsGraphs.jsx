@@ -17,8 +17,6 @@ const UserStatsGraphs = ({ data }) => {
     setTotal(
       data.map(({ acessos }) => Number(acessos)).reduce((a, b) => a + b, 0)
     );
-
-    console.log(data);
   }, [data]);
   return (
     <section className={`${styles.graph} animeLeft`}>

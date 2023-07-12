@@ -24,7 +24,6 @@ const LoginCreate = () => {
       password: password.value,
     });
     const { response } = await request(url, options);
-    console.log(response);
     if (response.ok) userLogin(username.value, password.value);
   };
 
